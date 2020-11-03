@@ -7,7 +7,7 @@ namespace ComputationalPracticum
      * Inherited from class NumericalMethod. Implements ComputeForPoint() method.
      * Idea behind: https://en.wikipedia.org/wiki/Runge–Kutta_methods
      */
-    class RungeKutta : NumericalMethod
+    public class RungeKutta : NumericalMethod
     {
         /* Constructor of a class RungeKutta.
          * Calls NumericalMethod's constructor.

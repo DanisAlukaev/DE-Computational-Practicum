@@ -7,7 +7,7 @@ namespace ComputationalPracticum
      * Inherited from class NumericalMethod. Implements ComputeForPoint() method.
      * Idea behind: https://en.wikipedia.org/wiki/Euler_method
      */
-    class Euler : NumericalMethod
+    public class Euler : NumericalMethod
     {
         /* Constructor of a class Euler.
          * Calls NumericalMethod's constructor.

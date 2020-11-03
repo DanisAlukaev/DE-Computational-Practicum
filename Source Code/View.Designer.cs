@@ -1,6 +1,6 @@
 ﻿namespace ComputationalPracticum
 {
-    partial class DESolver
+    partial class View
     {
         /// <summary>
         /// Required designer variable.

@@ -6,7 +6,7 @@ namespace ComputationalPracticum
      * Used to represent Numerical Methods for solving ordinary differential equations with a given initial value.
      * Inherited from class Grid.
      */
-    abstract class NumericalMethod : Grid
+    public abstract class NumericalMethod : Grid
     {
         /* Constructor of an abstract class NumericalMethod.
          * Calls Grid's constructor.

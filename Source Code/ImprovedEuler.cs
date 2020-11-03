@@ -5,7 +5,7 @@
      * Inherited from class NumericalMethod. Implements ComputeForPoint() method.
      * Idea behind: https://en.wikipedia.org/wiki/Heun%27s_method
      */
-    class ImprovedEuler : NumericalMethod
+    public class ImprovedEuler : NumericalMethod
     {
         /* Constructor of a class ImprovedEuler.
          * Calls NumericalMethod's constructor.
